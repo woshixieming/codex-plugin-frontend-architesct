@@ -8,7 +8,7 @@
       "name": "frontend-architect-os",
       "source": {
         "source": "local",
-        "path": "./.codex/plugins/frontend-architect-os"
+        "path": "~/.codex/plugins/frontend-architect-os"
       },
       "policy": {
         "installation": "AVAILABLE",

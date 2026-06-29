@@ -2,6 +2,9 @@
   "name": "frontend-architect-os",
   "version": "0.1.1",
   "description": "Frontend architecture, design-system, UI generation, accessibility, responsive review, PR review, and legacy UI migration workflows for Codex.",
+  "author": {
+    "name": "Frontend Architect OS Contributors"
+  },
   "license": "MIT",
   "keywords": [
     "frontend",
