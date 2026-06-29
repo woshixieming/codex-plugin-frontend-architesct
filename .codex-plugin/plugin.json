@@ -1,0 +1,30 @@
+{
+  "name": "frontend-architect-os",
+  "version": "0.1.1",
+  "description": "Frontend architecture, design-system, UI generation, accessibility, responsive review, PR review, and legacy UI migration workflows for Codex.",
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "design-system",
+    "ui-generation",
+    "accessibility",
+    "codex"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Frontend Architect OS",
+    "shortDescription": "Frontend architecture and design-system workflows.",
+    "longDescription": "Generate, review, audit, and migrate frontend UI using design tokens, reusable components, accessibility rules, responsive design checks, and framework conventions.",
+    "developerName": "Frontend Architect OS Contributors",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use Frontend Architect OS to analyze project context, infer the UI pattern, generate the implementation, and run a design review.",
+      "Use Frontend Architect OS to review current frontend changes for tokens, reuse, accessibility, responsive behavior, and documentation drift."
+    ],
+    "brandColor": "#2563EB"
+  }
+}
